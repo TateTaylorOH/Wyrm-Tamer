@@ -5,19 +5,19 @@ EEC -
 Imperial - 
 Stormcloak - 
 
-**Cragwater Camp**
-
-Bandit - 
-EEC - 
-Imperial - 
-Stormcloak - 
-
 **Thalmor Camp**
 
 Bandit - 
 EEC - 
 Imperial - 
 Stormcloak - 
+
+**Ruined Homestead
+
+Bandit - 0C0D9935
+EEC - 0C0D9936
+Imperial - 0C0D9937
+Stormcloak - 0C0D9938
 
 **Twinpeak Tower**
 
