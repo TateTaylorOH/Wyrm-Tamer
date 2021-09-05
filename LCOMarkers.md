@@ -21,10 +21,10 @@ Stormcloak -
 
 **Twinpeak Tower**
 
-Bandit - 
-EEC - 
-Imperial - 
-Stormcloak - 
+Bandit - 1B07A990
+EEC - 1B07A991
+Imperial - 1B07A992
+Stormcloak - 1B07A993
 
 **Waylayer Watch**
 
