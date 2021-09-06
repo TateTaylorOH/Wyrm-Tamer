@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/banners/Wrym%20Tamer.png)\
+
 [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882) ﻿is a great mod that I have recently fallen in love with. It allows you to claim locations around Skyrim for a faction of your choice, ensuring that it will only respawn in the future with friendly NPCs. It is really enjoyable to claim locations and see a tangible impact on the world around you. Places like Valtheim Keep and Pine Watch Bridge are fun locations because they are bandit camps stationed on the roadway, so claiming feels very impactful.
 
 I am sad there are not more modules to expand Lawbringer's system to other part of Skyrim or other modded locations. So I decided I would make one myself. This mod will bring Lawbringer functionality to three factions and five locations on Wyrmstooth!
@@ -58,6 +59,6 @@ A nordic tower overlooking the steam pools, occupied by a group of marauders tha
 
 An old imperial tower near Dunyick's Camp, occupied by marauders when the Dragonborn arrives. This location can be claimed for the East Empire Company and Imperial Legion.
 
-**Recommended Mods****
+**Recommended Mods**
 
-**In the base game the East Empire Company does not have a unique aesthetic, the mercenaries you see in Rise in the East wear Imperial Legion Armor and the East Empire Wardens from Scoundrel's Folly just wear Steel Armor. So, it is highly recommended that you use [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)﻿ (seen in the screenshots) alongside this mod. It will equip the East Empire Company with a new unique set of armor that will make the faction much more aesthetically interesting.
+In the base game the East Empire Company does not have a unique aesthetic, the mercenaries you see in Rise in the East wear Imperial Legion Armor and the East Empire Wardens from Scoundrel's Folly just wear Steel Armor. So, it is highly recommended that you use [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)﻿ (seen in the screenshots) alongside this mod. It will equip the East Empire Company with a new unique set of armor that will make the faction much more aesthetically interesting.
