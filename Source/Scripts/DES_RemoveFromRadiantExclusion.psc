@@ -1,6 +1,7 @@
 Scriptname DES_RemoveFromRadiantExclusion extends ObjectReference  
 
 ;WYRMSTOOTH PROPERTIES
+
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTArgonianHouseLocation auto
 Location Property WTBarracksLocation auto
@@ -42,13 +43,17 @@ Location Property WTTombOfVulomLocation auto
 Location Property WTTwinpeakTower auto
 Location Property WTWaylayerWatch auto
 Location Property WTWyrmstoothLocation auto
+
 ;WYRMTAMER PROPERTIES
+
 Formlist Property vf_RadiantExclusion auto
 Location Property DES_LCO_WTAbandonedCampLocation auto
 Location Property DES_LCO_WTThalmorCampLocation auto
 
 EVENT onTriggerEnter(ObjectReference triggerRef)
+
   ;WYRMSTOOTH LOCATIONS
+  
     vf_RadiantExclusion.removeAddedForm(WTAbandonedLighthouseLocation)
     vf_RadiantExclusion.removeAddedForm(WTArgonianHouseLocation)
     vf_RadiantExclusion.removeAddedForm(WTBarracksLocation)
@@ -90,7 +95,10 @@ EVENT onTriggerEnter(ObjectReference triggerRef)
     vf_RadiantExclusion.removeAddedForm(WTTwinpeakTower)
     vf_RadiantExclusion.removeAddedForm(WTWaylayerWatch)
     vf_RadiantExclusion.removeAddedForm(WTWyrmstoothLocation)
+    
 ;WYRMTAMER LOCATIONS
+
     vf_RadiantExclusion.removeAddedForm(DES_LCO_WTAbandonedCampLocation)
     vf_RadiantExclusion.removeAddedForm(DES_LCO_WTThalmorCampLocation)
+    
 ENDEVENT
