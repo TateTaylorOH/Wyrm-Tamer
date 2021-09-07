@@ -1,5 +1,6 @@
 Scriptname DES_AddToRadiantExclusion extends Quest  
 
+Formlist Property vf_RadiantExclusion auto
 Location Property WTHulgardSvenjaHouseLocation auto
 Location Property WTStonehollowLocation auto
 Location Property WTTheHermitLocation auto
@@ -43,7 +44,6 @@ Location Property WTAbandonedLighthouseLocation auto
 Location Property WTStonehollowWellLocation auto
 Location Property DES_LCO_WTAbandonedCampLocation auto
 Location Property DES_LCO_WTThalmorCampLocation auto
-Formlist Property vf_RadiantExclusion auto
 
 EVENT OnInit()
 
