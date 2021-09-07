@@ -42,6 +42,7 @@ Location Property WTBelonirBorgLocation auto
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTStonehollowWellLocation auto
 Location Property DES_LCO_WTThalmorCampLocation auto
+Location Property DES_LCO_WTAbandonedCampLocation auto
 Formlist Property vf_RadiantExclusion auto
 
 Event onTriggerEnter(ObjectReference triggerRef)
@@ -88,5 +89,6 @@ vf_RadiantExclusion.removeAddedForm(WTBelonirBorgLocation)
 vf_RadiantExclusion.removeAddedForm(WTAbandonedLighthouseLocation)
 vf_RadiantExclusion.removeAddedForm(WTStonehollowWellLocation)
 vf_RadiantExclusion.AddForm(DES_LCO_WTThalmorCampLocation)
+vf_RadiantExclusion.AddForm(DES_LCO_WTAbandonedCampLocation)
 
 ENDEVENT
