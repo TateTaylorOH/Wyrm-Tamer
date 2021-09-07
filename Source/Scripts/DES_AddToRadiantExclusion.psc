@@ -41,8 +41,8 @@ Location Property WTFrostwindFollyLocation auto
 Location Property WTBelonirBorgLocation auto
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTStonehollowWellLocation auto
-Location Property DES_LCO_WTThalmorCampLocation auto
 Location Property DES_LCO_WTAbandonedCampLocation auto
+Location Property DES_LCO_WTThalmorCampLocation auto
 Formlist Property vf_RadiantExclusion auto
 
 EVENT OnInit()
@@ -88,8 +88,8 @@ vf_RadiantExclusion.AddForm(WTFrostwindFollyLocation)
 vf_RadiantExclusion.AddForm(WTBelonirBorgLocation)
 vf_RadiantExclusion.AddForm(WTAbandonedLighthouseLocation)
 vf_RadiantExclusion.AddForm(WTStonehollowWellLocation)
-vf_RadiantExclusion.AddForm(DES_LCO_WTThalmorCampLocation)
 vf_RadiantExclusion.AddForm(DES_LCO_WTAbandonedCampLocation)
+vf_RadiantExclusion.AddForm(DES_LCO_WTThalmorCampLocation)
 
 SetStage(255)
 
