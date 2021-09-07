@@ -1,6 +1,6 @@
 Scriptname DES_AddToRadiantExclusion extends Quest  
 
-;WYMRSTOOH PROPERTIES
+;WYRMSTOOTH PROPERTIES
 
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTArgonianHouseLocation auto
@@ -52,7 +52,7 @@ Location Property DES_LCO_WTThalmorCampLocation auto
 
 EVENT OnInit()
 
-;WRYMSTOOTH LOCATIONS
+;WYRMSTOOTH LOCATIONS
 
   vf_RadiantExclusion.AddForm(WTAbandonedLighthouseLocation)
   vf_RadiantExclusion.AddForm(WTArgonianHouseLocation)
