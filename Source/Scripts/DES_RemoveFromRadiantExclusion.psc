@@ -1,5 +1,6 @@
 Scriptname DES_RemoveFromRadiantExclusion extends ObjectReference  
 
+Formlist Property vf_RadiantExclusion auto
 Location Property WTHulgardSvenjaHouseLocation auto
 Location Property WTStonehollowLocation auto
 Location Property WTTheHermitLocation auto
@@ -41,9 +42,8 @@ Location Property WTFrostwindFollyLocation auto
 Location Property WTBelonirBorgLocation auto
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTStonehollowWellLocation auto
-Location Property DES_LCO_WTThalmorCampLocation auto
 Location Property DES_LCO_WTAbandonedCampLocation auto
-Formlist Property vf_RadiantExclusion auto
+Location Property DES_LCO_WTThalmorCampLocation auto
 
 Event onTriggerEnter(ObjectReference triggerRef)
 
@@ -88,7 +88,7 @@ vf_RadiantExclusion.removeAddedForm(WTFrostwindFollyLocation)
 vf_RadiantExclusion.removeAddedForm(WTBelonirBorgLocation)
 vf_RadiantExclusion.removeAddedForm(WTAbandonedLighthouseLocation)
 vf_RadiantExclusion.removeAddedForm(WTStonehollowWellLocation)
-vf_RadiantExclusion.removeAddedForm(DES_LCO_WTThalmorCampLocation)
 vf_RadiantExclusion.removeAddedForm(DES_LCO_WTAbandonedCampLocation)
+vf_RadiantExclusion.removeAddedForm(DES_LCO_WTThalmorCampLocation)
 
 ENDEVENT
