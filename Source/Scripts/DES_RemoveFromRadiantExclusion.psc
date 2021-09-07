@@ -1,7 +1,6 @@
 Scriptname DES_RemoveFromRadiantExclusion extends ObjectReference  
 
 ;WYRMSTOOTH PROPERTIES
-
 Location Property WTAbandonedLighthouseLocation auto
 Location Property WTArgonianHouseLocation auto
 Location Property WTBarracksLocation auto
@@ -43,9 +42,7 @@ Location Property WTTombOfVulomLocation auto
 Location Property WTTwinpeakTower auto
 Location Property WTWaylayerWatch auto
 Location Property WTWyrmstoothLocation auto
-
 ;WYRMTAMER PROPERTIES
-
 Formlist Property vf_RadiantExclusion auto
 Location Property DES_LCO_WTAbandonedCampLocation auto
 Location Property DES_LCO_WTThalmorCampLocation auto
