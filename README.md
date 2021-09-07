@@ -10,7 +10,7 @@ I am sad there are not more modules to expand Lawbringer's system to other part 
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EEco.png)
 
-The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. They maintains a small but powerful standing army of mercenaries to protect their interests around Tamriel. In Wyrmstooth the East Empire Company wants to protect their colony on the island and expand their trade influence as far as they can. Claiming for the Company will often see locations become fortified and turn into storehouses for goods in order to better facilitate trade across the region.
+The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. They maintain a small but powerful standing army of mercenaries to protect their interests around Tamriel. In Wyrmstooth the East Empire Company wants to protect their colony on the island and expand their trade influence as far as they can. Claiming for the Company will often see locations become fortified and turn into storehouses for goods in order to better facilitate trade across the region.
 
 [\
 ![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:Imperial_Legion) [The Imperial Legion](https://en.uesp.net/wiki/Lore:Imperial_Legion) [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)
