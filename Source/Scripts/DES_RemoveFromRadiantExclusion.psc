@@ -88,7 +88,7 @@ vf_RadiantExclusion.removeAddedForm(WTFrostwindFollyLocation)
 vf_RadiantExclusion.removeAddedForm(WTBelonirBorgLocation)
 vf_RadiantExclusion.removeAddedForm(WTAbandonedLighthouseLocation)
 vf_RadiantExclusion.removeAddedForm(WTStonehollowWellLocation)
-vf_RadiantExclusion.AddForm(DES_LCO_WTThalmorCampLocation)
-vf_RadiantExclusion.AddForm(DES_LCO_WTAbandonedCampLocation)
+vf_RadiantExclusion.removeAddedForm(DES_LCO_WTThalmorCampLocation)
+vf_RadiantExclusion.removeAddedForm(DES_LCO_WTAbandonedCampLocation)
 
 ENDEVENT
