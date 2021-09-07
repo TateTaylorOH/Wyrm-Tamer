@@ -12,17 +12,18 @@ I am sad there are not more modules to expand Lawbringer's system to other part 
 
 The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. The Company maintains a small but powerful standing army of mercenaries to protect their interests around Tamriel. In Wyrmstooth the East Empire Company wants to protect their colony on the island and expand their trade influence as far as they can. Claiming for the Company will often see locations become fortified and turn into storehouses for goods in order to better facilitate trade across the region.
 
-[![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:Imperial_Legion) [The Imperial Legion](https://en.uesp.net/wiki/Lore:Imperial_Legion) [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)
+[\
+![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:Imperial_Legion) [The Imperial Legion](https://en.uesp.net/wiki/Lore:Imperial_Legion) [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/Imperials.png)
 
-The Imperial Legion is the military branch of the Mede Empire. The Legion exerts its influence across Cyrodiil, High Rock, and Skyrim with the latter having a stronger presence than normal due to the ongoing civil war. Wyrmstooth is a rich source of income for the Empire due to East Empire Company's operations there. Claiming for the Legion will see locations get turned into military camps and similar installations to protect their interests on Wyrmstooth and across the Sea of Ghosts.
-
-[﻿](https://en.uesp.net/wiki/Lore:Stormcloaks)[![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)﻿ [The Stormcloak Rebellion](https://en.uesp.net/wiki/Lore:Stormcloaks) [![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
+The Imperial Legion is the military branch of the Mede Empire. The Legion exerts its influence across Cyrodiil, High Rock, and Skyrim with the latter having a stronger presence than normal due to the ongoing civil war. Wyrmstooth is a rich source of income for the Empire due to East Empire Company's operations there. Claiming for the Legion will see locations get turned into military camps and similar installations to protect their interests on Wyrmstooth and across the Sea of Ghosts.\
+[\
+![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)﻿ [The Stormcloak Rebellion](https://en.uesp.net/wiki/Lore:Stormcloaks) [![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/Stormcloaks.png)
 
-The Stormcloak Rebellion is a scrappy local insurgent faction built on nationalism and loyalty to their titular leader, Ulfric Stormcloak. The Stormcloaks do not have the proper resources to properly garrison Wyrmstooth, but they are interested in disrupting Imperial supply lines and putting further strain on the Empire's resources in the North. Claiming for the Stormcloaks will usually see the location get destroyed in a raid.
+The Stormcloak Rebellion is a scrappy local insurgent faction built on nationalism and loyalty to their titular leader, Ulfric Stormcloak. The Stormcloaks do not have the resources to properly garrison Wyrmstooth, but they are interested in disrupting Imperial supply lines and put further strain on the Empire's resources in the north. Claiming for the Stormcloaks will usually see the location get destroyed in a raid.
 
 **Abandoned Camp**
 
