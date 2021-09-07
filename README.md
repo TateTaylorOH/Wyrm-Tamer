@@ -10,40 +10,41 @@ I am sad there are not more modules to expand Lawbringer's system to other part 
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EEco.png)
 
-The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. The Company maintains a small but powerful standing army of mercenaries to protect their interests around Tamriel. In Wyrmstooth the East Empire Company wants to protect their colony on the island and expand their trade influence as far as they can. Claiming for the Company will often see locations become fortified and turn into storehouses for goods in order to better facilitate trade across the region.
+The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. They maintains a small but powerful standing army of mercenaries to protect their interests around Tamriel. In Wyrmstooth the East Empire Company wants to protect their colony on the island and expand their trade influence as far as they can. Claiming for the Company will often see locations become fortified and turn into storehouses for goods in order to better facilitate trade across the region.
 
-[![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:Imperial_Legion) [The Imperial Legion](https://en.uesp.net/wiki/Lore:Imperial_Legion) [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)
+[\
+![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:Imperial_Legion) [The Imperial Legion](https://en.uesp.net/wiki/Lore:Imperial_Legion) [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/Imperials.png)
 
-The Imperial Legion is the military branch of the Mede Empire. The Legion exerts its influence across Cyrodiil, High Rock, and Skyrim with the latter having a stronger presence than normal due to the ongoing civil war. Wyrmstooth is a rich source of income for the Empire due to East Empire Company's operations there. Claiming for the Legion will see locations get turned into military camps and similar installations to protect their interests on Wyrmstooth and across the Sea of Ghosts.\
+The Imperial Legion is the military branch of the Mede Empire. They exert influence across Cyrodiil, High Rock, and Skyrim, with the latter having a stronger presence than normal due to the ongoing civil war. Wyrmstooth is a rich source of income for the Empire due to East Empire Company's operations there. Claiming for the Legion will see locations get turned into military camps and similar installations to protect their interests in Wyrmstooth and across the Sea of Ghosts.\
 [\
-![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)﻿ [The Stormcloak Rebellion](https://en.uesp.net/wiki/Lore:Stormcloaks) [![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
+![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)﻿ [The Stormcloaks](https://en.uesp.net/wiki/Lore:Stormcloaks) [![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/Stormcloaks.png)
 
-The Stormcloak Rebellion is a scrappy local insurgent faction built on nationalism and loyalty to their titular leader, Ulfric Stormcloak. The Stormcloaks do not have the resources to properly garrison Wyrmstooth, but they are interested in disrupting Imperial supply lines and put further strain on the Empire's resources in the north. Claiming for the Stormcloaks will usually see the location get destroyed in a raid.
+The Stormcloaks are a scrappy insurgent faction built on nationalism and loyalty to their titular leader, Ulfric Stormcloak. They are in open conflict with the Imperial Legion over control of Skyrim and do not have the resources to properly garrison Wyrmstooth. However, they are interested in disrupting Imperial supply lines to put further strain on the Empire's resources in the north. Claiming for the Stormcloaks will usually result in the location being razed.
 
 **Abandoned Camp**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/AbandonedCamp.PNG)\
 [![](https://images.uesp.net/e/e0/SR-mapicon-Shipwreck.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)﻿ [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion) ﻿[![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
-A camp east of Krakevisa. While the civil war doesn't reach as far north as Wyrmstooth, it would seem like the Stormcloaks may have been keeping an eye on imperial operations on the island until recently. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloak Rebellion. This is the only location that the Stormcloaks can make a traditional claim at.
+A camp east of Krakevisa. While the civil war doesn't reach as far north as Wyrmstooth, it would seem like the Stormcloaks may have been keeping an eye on imperial operations on the island until recently. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloaks. This is the only location that the Stormcloaks can make a traditional claim at.
 
 **Ruined Homestead**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/RuinedHomestead.PNG)\
 [![](https://images.uesp.net/e/e0/SR-mapicon-Shipwreck.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)﻿﻿ [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)﻿ ﻿[![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
-Marauders currently occupy this ruined homestead south of Bloodstone Camp in the central mountains. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloak Rebellion. It will change dramatically in look and function depending on who you claim it for.
+Marauders currently occupy this ruined homestead south of Bloodstone Camp in the central mountains. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloaks. It will change dramatically in look and function depending on who you claim it for.
 
 **Thalmor Camp**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/ThalmorCamp.PNG)\
 [![](https://images.uesp.net/e/e0/SR-mapicon-Shipwreck.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)﻿﻿ [![](https://images.uesp.net/d/da/SR-mapicon-Imperial_Camp.png)](https://en.uesp.net/wiki/Lore:Imperial_Legion)﻿ ﻿[![](https://images.uesp.net/5/59/SR-mapicon-Stormcloak_Camp.png)](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
-A camp recently set up by the Thalmor on the northern island of Witch's Crag. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloak Rebellion. It will change dramatically in look and function depending on who you claim it for.
+A camp recently set up by the Thalmor on the northern island of Witch's Crag. This location can be claimed for the East Empire Company, Imperial Legion, and Stormcloaks. It will change dramatically in look and function depending on who you claim it for.
 
 **Twinpeak Tower**
 
@@ -63,4 +64,4 @@ An old imperial tower near Dunyick's Camp, occupied by marauders when the Dragon
 
 In the base game the East Empire Company does not have a unique aesthetic, the mercenaries you see in Rise in the East wear Imperial Legion Armor and the East Empire Wardens from Scoundrel's Folly just wear Steel Armor. So, it is highly recommended that you use [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)﻿ (seen in the screenshots) alongside this mod. It will equip the East Empire Company with a new unique set of armor that will make the faction much more aesthetically interesting.
 
-Without this mod installed the East Empire guards added to claimed locations will just use Steel Armor.
+Without this mod installed the East Empire Wardens added to claimed locations will just use the Steel Armor outfit from Scoundrel's Folly.
