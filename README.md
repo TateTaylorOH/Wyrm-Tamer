@@ -62,3 +62,5 @@ An old imperial tower near Dunyick's Camp, occupied by marauders when the Dragon
 **Recommended Mods**
 
 In the base game the East Empire Company does not have a unique aesthetic, the mercenaries you see in Rise in the East wear Imperial Legion Armor and the East Empire Wardens from Scoundrel's Folly just wear Steel Armor. So, it is highly recommended that you use [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)﻿ (seen in the screenshots) alongside this mod. It will equip the East Empire Company with a new unique set of armor that will make the faction much more aesthetically interesting.
+
+Without this mod installed the East Empire guards added to claimed locations will just use Steel Armor.
