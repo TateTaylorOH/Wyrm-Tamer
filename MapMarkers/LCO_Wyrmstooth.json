@@ -1,0 +1,12 @@
+{
+	"mapMarkers": [{
+		"refID": "LCO_Wyrmstooth.esp|867",
+		"icon": 161
+	}, {
+		"refID": "LCO_Wyrmstooth.esp|8C8",
+		"icon": 161
+	}, {
+		"refID": "LCO_Wyrmstooth.esp|93A",
+		"icon": 161
+	}]
+}
