@@ -6,7 +6,7 @@ I am sad there are not more modules to expand Lawbringer's system to other part 
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)
 
-[![](https://images.uesp.net/e/e0/SR-mapicon-Shipwreck.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:East_Empire_Company) [The East Empire Company ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://images.uesp.net/e/e0/SR-mapicon-Shipwreck.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
+[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [](https://en.uesp.net/wiki/Lore:East_Empire_Company) [The East Empire Company ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EEco.png)
 
