@@ -1,12 +1,13 @@
 {
+// [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190)
 	"mapMarkers": [{
-		"refID": "LCO_Wyrmstooth.esp|867",
+		"refID": "LCO_Wyrmstooth.esp|93A", // Company Expedition Camp
 		"icon": 161
 	}, {
-		"refID": "LCO_Wyrmstooth.esp|8C8",
+		"refID": "LCO_Wyrmstooth.esp|8C8", // East Empire Caravan Camp
 		"icon": 161
 	}, {
-		"refID": "LCO_Wyrmstooth.esp|93A",
+		"refID": "LCO_Wyrmstooth.esp|867", // East Empire Company Depot
 		"icon": 161
 	}]
 }
