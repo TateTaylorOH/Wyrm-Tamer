@@ -1,103 +1,69 @@
-Scriptname LCO_SimpleController_WT extends LCO_LocationControllerBase  
+Scriptname LCO_SimpleController_WT extends LCO_SimpleControllerBase
 
-;/inherited properties
-int LCO_Default
-int LCO_Player
-int LCO_LocalHold
-int LCO_Imperial
-int LCO_Stormcloak
-int LCO_Companions
-int LCO_ThievesGuild
-int LCO_CollegeOfWinterhold
-int LCO_DarkBrotherhood
-int LCO_Stormcloak
-int LCO_LocalHold
-int LCO_Bandits
-int LCO_Forsworn
-int LCO_Warlock
-int LCO_Animals
-int LCO_DruadachForsworn
-int LCO_Imperial
-int LCO_Vampire
-Keyword CurrentOwnership
-Keyword DefaultOwnership
-Keyword ChangeOwnership
-int newOwner
-int defaultOwner
-GlobalVariable realTimeUpdateDelay
-GlobalVariable gameTimeUpdateDelay
-Location thisLocation
-/;
-
-Message property NoClaim Auto
-Message Property Claim Auto
 Form Property DefaultBanner Auto
-Form Property ECCoBanner Auto
+{base form for the default banner near the controller.}
+Form Property EECBanner Auto
+{base form for the East Empire Company banner near the controller.}
 Form Property ImperialBanner Auto
+{base form for the Imperial banner near the controller.}
 Form Property StormcloakBanner Auto
+{base form for the Stormcloak banner near the controller.}
 
 ObjectReference myDefaultBanner
-ObjectReference myECCoBanner
+ObjectReference myEECBanner
 ObjectReference myImperialBanner
-ObjectReference myStormcloakBanner
+ObjectReference myStormcloakBanner 
 
-Event onLoad()
+function getLocalBanners()
 	myDefaultBanner = Game.findClosestReferenceOfTypeFromRef(DefaultBanner, self, 400.0)
-	myECCoBanner = Game.findClosestReferenceOfTypeFromRef(ECCoBanner, self, 400.0)
+	myEECBanner = Game.findClosestReferenceOfTypeFromRef(EECBanner, self, 400.0)
 	myImperialBanner = Game.findClosestReferenceOfTypeFromRef(ImperialBanner, self, 400.0)
 	myStormcloakBanner = Game.findClosestReferenceOfTypeFromRef(StormcloakBanner, self, 400.0)
-	updateBanners()
-	setDisplayName(thisLocation.getName())
-endEvent
+endFunction
 
-Event onActivate(ObjectReference akActionRef)
-	if((akActionRef as Actor).isInCombat() || !thisLocation.isCleared())
-		NoClaim.show()
-		return
+int function processChoice(int selectedChoice, int currentOwner)
+	if(selectedChoice == 0)
+		return LCO.Default()
+	elseif(selectedChoice == 1)
+		return LCO.EastEmpireCompany()
+	elseif(selectedChoice == 2)
+		return LCO.Imperial()
+	elseif(selectedChoice == 3)
+		return LCO.Stormcloak()
 	endIf
-	int choice = Claim.show()
-	int current = thisLocation.getKeywordData(CurrentOwnership) as int
-	if(choice == 0 && current != LCO_Default)
-		newOwner = LCO_Default
-		updateBanners(LCO_Default)
-		goToState("UpdateQueued")
-	elseif(choice == 1 && current != LCO_LocalHold)
-		newOwner = LCO_LocalHold
-		updateBanners(LCO_LocalHold)
-		goToState("UpdateQueued")
-	elseif(choice == 2 && current != LCO_Imperial)
-		newOwner = LCO_Imperial
-		updateBanners(LCO_Imperial)
-		goToState("UpdateQueued")
-	elseif(choice == 3 && current != LCO_Stormcloak)
-		newOwner = LCO_Stormcloak
-		updateBanners(LCO_Stormcloak)
-		goToState("UpdateQueued")
-	endIf
-endEvent
+	return currentOwner
+endFunction
+
+function hide()
+	parent.hide()
+	myDefaultBanner.disableNoWait()
+	myEECBanner.disableNoWait()
+	myImperialBanner.disableNoWait()
+	myStormcloakBanner.disableNoWait()
+endFunction
 
 function updateBanners(int i = -1)
 	if(i == -1)
 		i = thisLocation.getKeywordData(CurrentOwnership) as int
 	endIf
-	if(i == LCO_Default)
+	if(i == LCO.Default())
 		myDefaultBanner.enableNoWait()
-		myECCoBanner.disableNoWait()
+		myEECBanner.disableNoWait()
 		myImperialBanner.disableNoWait()
 		myStormcloakBanner.disableNoWait()
-	elseif(i == LCO_LocalHold)
+	elseif(i == LCO.EastEmpireCompany())
 		myDefaultBanner.disableNoWait()
-		myECCoBanner.enableNoWait()
+		myEECBanner.enableNoWait()
 		myImperialBanner.disableNoWait()
 		myStormcloakBanner.disableNoWait()
-	elseif(i == LCO_Imperial)
+	elseif(i == LCO.Imperial())
 		myDefaultBanner.disableNoWait()
-		myECCoBanner.disableNoWait()
+		myEECBanner.disableNoWait()
 		myImperialBanner.enableNoWait()
 		myStormcloakBanner.disableNoWait()
-	elseif(i == LCO_Stormcloak)
+	elseif(i == LCO.Stormcloak())
 		myDefaultBanner.disableNoWait()
-		myECCoBanner.disableNoWait()
+		myEECBanner.disableNoWait()
 		myImperialBanner.disableNoWait()
 		myStormcloakBanner.enableNoWait()
 	endIf
